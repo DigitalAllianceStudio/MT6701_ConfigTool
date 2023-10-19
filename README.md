@@ -32,9 +32,7 @@
 </td>
 </tr>
 <tr>
-<td style = "width: 50%;">
-
-:warning: 本程序配套的硬件转接板请自行购买，购买链接：[USB 转 IIC 转接板 https://item.taobao.com/item.htm?id=562601046023](https://item.taobao.com/item.htm?id=562601046023)，转接板型号请选择 `多电压版（1.8V ~ 5V）`（因为 MT6701 的编程电压要求 VDD > 4.5V）。转接板驱动程序及资料请下载本仓库内的 :package: `USB2UARTPSIIIC(20230727)V3.1.0.zip` 并解压，之后安装转接板驱动。
+<td style = "width: 80%;">
 
 <div style = "width: 50%; text-align: center; margin: 0 auto;">
 
@@ -44,11 +42,25 @@
 </div>
 
 </td>
-<td style = "width: 50%;">
+<td style = "width: 20%;">
 
-:warning: 建议在安装驱动后，使用转接板资料包内的 `USB2UARTPSIIICV3.1.0\调试软件\通用调试软件\VCUSB2UARTPSIIIC.exe` 确认下转接板的固件版本，如果非最新版本，请根据下图示例更新一下转接板的固件，更新完毕后关闭 `VCUSB2UARTPSIIIC.exe`。
+:warning: 本程序配套的硬件转接板请自行购买，购买链接：[USB 转 IIC 转接板 https://item.taobao.com/item.htm?id=562601046023](https://item.taobao.com/item.htm?id=562601046023)，转接板型号请选择 `多电压版（1.8V ~ 5V）`（因为 MT6701 的编程电压要求 VDD > 4.5V）。转接板驱动程序及资料请下载本仓库内的 :package: `USB2UARTPSIIIC(20230727)V3.1.0.zip` 并解压，之后安装转接板驱动。
+
+</td>
+</tr>
+<tr>
+<td style = "width: 80%;">
+
+<div style = "text-align: center; margin: 0 auto;">
 
 ![USB2IIC固件更新](doc/USB2IIC固件更新.png)
+
+</div>
+
+</td>
+<td style = "width: 20%;">
+
+:warning: 建议在安装驱动后，使用转接板资料包内的 `USB2UARTPSIIICV3.1.0\调试软件\通用调试软件\VCUSB2UARTPSIIIC.exe` 确认下转接板的固件版本，如果非最新版本，请根据下图示例更新一下转接板的固件，更新完毕后关闭 `VCUSB2UARTPSIIIC.exe`。
 
 </td>
 </tr>
