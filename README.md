@@ -13,7 +13,7 @@
 
 本仓库用于 MT6701_ConfigTool 的发布，下载请跳转 [发布页面 (当前版本: v0.0.0.4)](https://github.com/DigitalAllianceStudio/MT6701_ConfigTool/releases)
 
-本程序用于配置麦歌恩（MagnTek）高速磁性角度编码芯片 [MT6701](https://www.magntek.com.cn/list/174/554.htm)，虽然官方有相应的上位机配置软件和配套的硬件，但是使用体验较差，官方的上位机配置软件用起来较为卡顿，效率也不高，提示信息不完善，故自行开发了本配置软件。
+本程序用于配置麦歌恩（MagnTek）高速磁性角度编码芯片 [MT6701](https://www.magntek.com.cn/search/result?keys=MT6701)，虽然官方有相应的上位机配置软件和配套的硬件，但是使用体验较差，官方的上位机配置软件用起来较为卡顿，效率也不高，提示信息不完善，故自行开发了本配置软件。
 
 </td>
 <td style = "width: 50%;">
